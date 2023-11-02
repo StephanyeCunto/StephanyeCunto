@@ -7,7 +7,7 @@
   <div>
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=Stephanyecristine&show_icons=true&theme=dark&icon_color=B600B6&locale=pt-pt"
+        srcset="https://github-readme-stats.vercel.app/api?username=Stephanyecristine&show_icons=true&theme=dark&icon_color=B600B6&locale=pt-pt&show=prs_merged"
         media="(prefers-color-scheme: dark)"
       />
       <source
@@ -16,7 +16,7 @@
       />
       <img src="https://github-readme-stats.vercel.app/api?username=Stephanyecristine&show_icons=true" align="right"/>
     </picture>  
-    <h3>Sobre mim </h3>
+    <h2>Sobre mim </h2>
     <ul>
       <li>📚Sou estudante de Ciência da Computação no IFSEMG.</li>
       <li> 🖥️Apaixonada por programação, resolução de problemas e inovação.</li>
