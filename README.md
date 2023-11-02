@@ -14,12 +14,21 @@
         srcset="https://github-readme-stats.vercel.app/api?username=Stephanyecristine&show_icons=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=Stephanyecristine&show_icons=true"/>
-    </picture>
+      <img src="https://github-readme-stats.vercel.app/api?username=Stephanyecristine&show_icons=true" align="right"/>
+    </picture>  
+    <h2>Sobre mim </h2>
+    <ul>
+      <li>📚Sou estudante de Ciência da Computação no IFSEMG.</li>
+      <li> 🖥️Apaixonada por programação, resolução de problemas e inovação.</li>
+      <li>🌟Em busca de aprendizado e novos desafios na área da computação.</li>
+      <li>🌎Explorando o vasto mundo da computação, desde algoritmos complexos até desenvolvimento web e muito mais.</li>
+    </ul>
   </div>
 </body>
 <footer>
-  <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Stephanyecristine.Stephanyecristine&&left_color=purple&&right_color=gray" alt="visitor badge"/>
+  
+  <div>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Stephanyecristine.Stephanyecristine&&left_color=purple&&right_color=gray" alt="visitor badge" align="right"/>
+  <p align="left">Obrigada por visitar meu perfil!💻</p>
 </div>
 </footer>
