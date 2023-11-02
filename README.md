@@ -16,7 +16,7 @@
       />
       <img src="https://github-readme-stats.vercel.app/api?username=Stephanyecristine&show_icons=true" align="right"/>
     </picture>  
-    <h2>Sobre mim </h2>
+    <h3>Sobre mim </h3>
     <ul>
       <li>📚Sou estudante de Ciência da Computação no IFSEMG.</li>
       <li> 🖥️Apaixonada por programação, resolução de problemas e inovação.</li>
