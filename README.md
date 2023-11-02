@@ -29,10 +29,11 @@
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flar-square&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Delphi-F32232?style=flat-square&logo=Delphi&logoColor=white"/>
   </div><br>
   <div>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Stephanyecristine.Stephanyecristine&&left_color=purple&&right_color=gray" alt="visitor badge" align="right"/>
