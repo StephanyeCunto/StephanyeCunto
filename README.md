@@ -19,9 +19,6 @@
     </h3>
     <ul>
       <li>📚Sou estudante de Ciência da Computação no IFSEMG.</li>
-      <li> 🖥️Apaixonada por programação e inovação.</li>
-      <li>🌟Em busca de aprendizado e novos desafios na área da computação.</li>
-      <li>🌎Explorando o vasto mundo da computação, desde algoritmos complexos até desenvolvimento web e muito mais.</li>
     </ul>
   </div>
 </body>
