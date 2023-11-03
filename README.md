@@ -18,8 +18,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=roboto&weight=1&size=35&duration=1&pause=1000000000&color=B600B6&multiline=true&repeat=false&random=false&width=200&height=40&lines=Sobre+mim" alt="Typing SVG" />
     </h3>
     <ul>
-      <li>📚Sou estudante de Ciência da Computação no IFSEMG.</li><br><br><br><br><br><br>
+      <li>📚Sou estudante de Ciência da Computação no IFSEMG.</li>
     </ul>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephanyecristine&layout=compact&langs_count=7&theme=dark"/>
   </div>
 </body>
 <footer>
