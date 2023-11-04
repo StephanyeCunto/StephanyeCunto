@@ -20,7 +20,7 @@
     <ul>
       <li>📚Sou estudante de Ciência da Computação no IFSEMG.</li>
     </ul>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephanyecristine&layout=compact&langs_count=7&theme=dark"/>
+    <img src="https://camo.githubusercontent.com/9e8b65cb7ae90d49d23916dad9c10e80074a9600a0261f1a9a745c054d6793a4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5374657068616e79656372697374696e65266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d6461726b"/>
   </div>
 </body>
 <footer>
