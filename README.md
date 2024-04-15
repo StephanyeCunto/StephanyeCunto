@@ -15,8 +15,8 @@
     <ul>
       <li>📚Sou estudante de Ciência da Computação no IFSEMG.</li>
     </ul>
-      <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Stephanyecristine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-     <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanyecristine&layout=compact&langs_count=7&theme=tokyonight"/>
+      <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=StephanyeCunto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+     <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyeCunto&layout=compact&langs_count=7&theme=tokyonight"/>
   </div>
 </body>
 <footer>
@@ -33,7 +33,7 @@
       <img src="https://img.shields.io/badge/-Delphi-F32232?style=flat-square&logo=Delphi&logoColor=white"/>
   </div><br>
   <div>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Stephanyecristine.Stephanyecristine&&left_color=blue&&right_color=gray" alt="visitor badge" align="right"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=StephanyeCunto.StephanyeCunto&&left_color=blue&&right_color=gray" alt="visitor badge" align="right"/>
   <p align="left">Obrigada por visitar meu perfil!💻</p>
 </div>
 </footer>
