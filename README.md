@@ -33,7 +33,7 @@
       <img src="https://img.shields.io/badge/-Delphi-F32232?style=flat-square&logo=Delphi&logoColor=white"/>
   </div><br>
   <div>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=StephanyeCunto.StephanyeCunto&&left_color=blue&&right_color=gray" alt="visitor badge" align="right"/>
+  <img scr="https://visitor-badge.laobi.icu/badge?page_id=StephanyeCunto.StephanyeCunto&&left_color=blue&&right_color=gray" alt="visitor badge" align="right"/>
   <p align="left">Obrigada por visitar meu perfil!💻</p>
 </div>
 </footer>
