@@ -12,7 +12,7 @@
     <ul>
       <li>📚Sou estudante de Ciência da Computação no IFSEMG.</li>
     </ul>
-    <a href="github.com\StephanyeCunto">
+    <a href="[github.com\StephanyeCunto](https://github.com/StephanyeCunto)">
         <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=stephanyeCunto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
        <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyeCunto&layout=compact&langs_count=7&theme=tokyonight"/>
     </a>
