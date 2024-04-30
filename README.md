@@ -10,7 +10,7 @@
     </picture>  
     <img  src="https://readme-typing-svg.demolab.com?font=roboto&weight=1&size=35&duration=1&pause=1000000000&color=6B9EF2&multiline=true&repeat=false&random=false&width=200&height=40&lines=Sobre+mim" alt="Typing SVG" />
     <ul>
-      <li>📚Sou estudante de Ciência da Computação no IFSEMG.</li>
+      <li>📚Estudante de Ciência da Computação no IFSEMG.</li>
     </ul>
     <a href="https://github.com/StephanyeCunto">
         <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=stephanyeCunto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
