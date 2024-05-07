@@ -1,10 +1,10 @@
 <body>
-  <header align="left">
+  <header>
     <section>
       <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=100&duration=2000&pause=00&color=6B9EF2&multiline=true&repeat=false&random=false&width=300&height=55&lines=%F0%9F%91%A9%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BBOl%C3%A1+meu+nome+%C3%A9+Stephanye.;%F0%9F%91%8B%F0%9F%8F%BESeja+bem-vindo!" alt="Typing SVG" />  
     </section>
     <section>
-      <img  src="https://readme-typing-svg.demolab.com?font=roboto&weight=1&size=30&duration=1&pause=1000000000&color=6B9EF2&multiline=true&repeat=false&random=false&width=200&height=35&lines=Sobre+mim" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=roboto&weight=1&size=30&duration=1&pause=1000000000&color=6B9EF2&multiline=true&repeat=false&random=false&width=200&height=35&lines=Sobre+mim" alt="Typing SVG" />
     </section>
   </header>
   <article>
@@ -12,8 +12,8 @@
        <p>📚Sou estudante de Ciência da Computação no IFSEMG.</p>
     </section>
     <section>
-      <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=stephanyeCunto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyeCunto&layout=compact&langs_count=7&theme=tokyonight"/>      
+      <img hspace="0" height="180em" src="https://github-readme-stats.vercel.app/api?username=stephanyeCunto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img hspace="30" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyeCunto&layout=compact&langs_count=7&theme=tokyonight"/>      
     </section>
   </article>
 </body>
