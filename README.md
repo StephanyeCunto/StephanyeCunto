@@ -12,8 +12,8 @@
        <p>📚Sou estudante de Ciência da Computação no IFSEMG.</p>
     </section>
     <section>
-      <a href="[https://github.com/StephanyeCunto](https://github.com/StephanyeCunto)">
-        <img hspace="20" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyeCunto&layout=compact&langs_count=7&theme=transparent&hide_border=true"/>  
+      <a href="https://github.com/StephanyeCunto">
+        <img hspace="0" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyeCunto&layout=compact&langs_count=7&theme=transparent&hide_border=true"/>  
       </a>
       <a href="https://github.com/StephanyeCunto">
         <img hspace="40" height="180em" src="https://github-readme-stats.vercel.app/api?username=stephanyeCunto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>  
