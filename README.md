@@ -21,8 +21,8 @@
     </section>
   </article>
 </body>
-<!--<footer>
-  <div>
+<footer>
+  <!--<div>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
@@ -33,8 +33,8 @@
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flar-square&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Delphi-F32232?style=flat-square&logo=Delphi&logoColor=white"/>
-  </div><br>
+  </div><br>-->
   <div>
-      <p align="left">Obrigada por visitar meu perfil!💻</p>
-  </div>
-  </footer>-->
+      <img src="https://readme-typing-svg.demolab.com/?font=roboto&weight=2&size=15&duration=1&pause=1000000000&color=6B9EF2&multiline=true&repeat=false&random=false&width=290&height=40&lines=❤️+Obrigada+por+visitar+meu+perfil!"
+    </div>
+  </footer>
