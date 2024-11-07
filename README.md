@@ -1,40 +1,119 @@
-<body>
-  <header>
-    <section>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=100&duration=2000&pause=00&color=6B9EF2&multiline=true&repeat=false&random=false&width=300&height=55&lines=%F0%9F%91%A9%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BBOl%C3%A1+meu+nome+%C3%A9+Stephanye.;%F0%9F%91%8B%F0%9F%8F%BESeja+bem-vindo!" alt="Typing SVG" />  
-    </section>
-    <section>
-      <img src="https://readme-typing-svg.demolab.com?font=roboto&weight=1&size=30&duration=1&pause=1000000000&color=6B9EF2&multiline=true&repeat=false&random=false&width=200&height=35&lines=Sobre+mim" alt="Typing SVG" />
-    </section>
-  </header>
-  <article>
-    <section>
-       <p>📚Sou estudante de Ciência da Computação no IFSEMG.</p>
-    </section>
-    <section>
-      <a href="https://github.com/StephanyeCunto">
-        <img hspace="0" height="180em" src="https://github-readme-stats.vercel.app/api?username=stephanyeCunto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>  
-      </a>
-      <a href="https://github.com/StephanyeCunto">
-        <img hspace="0" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyeCunto&layout=compact&langs_count=7&theme=transparent&hide_border=true"/>  
-      </a>
-    </section>
-  </article>
-</body>
-<footer>
-  <!--<div>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flar-square&logo=php&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Delphi-F32232?style=flat-square&logo=Delphi&logoColor=white"/>
-  </div><br>-->
+<div align="center">
+
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:DA70D6,100:9370DB&height=200&section=header&text=Stephanye%20Cunto&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&descAlignY=55)
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&lines=Transformando+ideias+em+c%C3%B3digo+%E2%9C%A8;Criando+experi%C3%AAncias+%C3%BAnicas+%F0%9F%92%96;Apaixonada+por+tecnologia+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%8C%B8)](https://git.io/typing-svg)
+
   <div>
-      <img src="https://readme-typing-svg.demolab.com/?font=roboto&weight=2&size=15&duration=1&pause=1000000000&color=6B9EF2&multiline=true&repeat=false&random=false&width=290&height=40&lines=❤️+Obrigada+por+visitar+meu+perfil!"
-    </div>
-  </footer>
+    <img src="https://img.shields.io/badge/Front_End-💝-FF69B4?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Back_End-💫-DA70D6?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Clean_Code-✨-9370DB?style=for-the-badge"/>
+  </div>
+
+  <div>
+    <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/stephanye-cunto-802b8922b/)" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%23FF69B4?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="mailto:stephanyecristine6@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Gmail-%23DA70D6?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://github.com/StephanyeCunto" target="_blank">
+      <img src="https://img.shields.io/badge/-Portfolio-%239370DB?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+  </div>
+</div>
+
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="30">
+    Sobre mim
+  </h2>
+</div>
+
+```javascript
+class Developer {
+  constructor() {
+    this.name = "Stephanye Cunto";
+    this.role = "Full Stack Developer";
+    this.education = "Ciência da Computação @ IFSEMG";
+    this.skills = {
+      frontend: ["HTML5", "CSS3", "JavaScript", "React"],
+      backend: ["Node.js", "Express", "SQL"],
+      currentlyLearning: "Sempre algo novo! 📚"
+    };
+    this.passions = ["UI/UX", "Clean Code", "Problem Solving"];
+  }
+
+  sayHi() {
+    return "Seja bem-vindo ao meu mundo de códigos! ✨";
+  }
+}
+```
+
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/3oKIPrXWhUYjqOanhS/giphy.gif" width="30">
+    Tech Stack
+  </h2>
+</div>
+
+<div align="center">
+  <h3>🎀 Front-end</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+  
+  <h3>💫 Back-end</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,java" />
+  
+  <h3>🌸 Ferramentas & Mais</h3>
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma" />
+</div>
+
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30">
+    Projeto em Destaque
+  </h2>
+</div>
+
+<div align="center">
+  <a href="https://github.com/StephanyeCunto/CapyCourses">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanyeCunto&repo=CapyCourses&theme=material-palenight&hide_border=true"/>
+  </a>
+  <br><br>
+  <p>
+    🌟 <strong>CapyCourses</strong> - Uma plataforma de cursos online inovadora
+    <br>
+    Tecnologias: Java, JavaFX, JPA, MySql
+  </p>
+</div>
+
+<!-- Estatísticas com tema roxo/rosa -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
+    GitHub Stats
+  </h2>
+</div>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=StephanyeCunto&show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=DA70D6&text_color=fff&bg_color=0d1117" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyeCunto&layout=compact&hide_border=true&title_color=FF69B4&text_color=fff&bg_color=0d1117" />
+</div>
+
+<!-- Gráfico de Contribuições -->
+<div align="center">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StephanyeCunto&bg_color=0d1117&color=FF69B4&line=DA70D6&point=9370DB&area=true&hide_border=true" />
+</div>
+
+<!-- Footer elegante -->
+<div align="center">
+  <br>
+  <p>
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"><br>
+    <i>"Codando o futuro, um commit de cada vez" ✨</i>
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=StephanyeCunto&color=FF69B4&style=flat-square&label=Visitantes"/>
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:DA70D6,100:9370DB&height=120&section=footer)
