@@ -4,9 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&lines=Transformando+ideias+em+c%C3%B3digo+%E2%9C%A8;Criando+experi%C3%AAncias+%C3%BAnicas+%F0%9F%92%96;Apaixonada+por+tecnologia+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-
-
-
   <div>
     <img src="https://img.shields.io/badge/Front_End-💝-FF69B4?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Back_End-💫-DA70D6?style=for-the-badge"/>
@@ -55,7 +52,7 @@ class Developer {
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/3oKIPrXWhUYjqOanhS/giphy.gif" width="30">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     Tech Stack
   </h2>
 </div>
@@ -73,7 +70,7 @@ class Developer {
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
     Projeto em Destaque
   </h2>
 </div>
@@ -90,7 +87,6 @@ class Developer {
   </p>
 </div>
 
-<!-- Estatísticas com tema roxo/rosa -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
@@ -103,13 +99,11 @@ class Developer {
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyeCunto&layout=compact&hide_border=true&title_color=FF69B4&text_color=fff&bg_color=0d1117" />
 </div>
 
-<!-- Gráfico de Contribuições -->
 <div align="center">
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=StephanyeCunto&bg_color=0d1117&color=FF69B4&line=DA70D6&point=9370DB&area=true&hide_border=true" />
 </div>
 
-<!-- Footer elegante -->
 <div align="center">
   <br>
   <p>
