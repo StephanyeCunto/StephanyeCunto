@@ -102,6 +102,7 @@ class Developer {
 <div align="center">
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=StephanyeCunto&bg_color=0d1117&color=FF69B4&line=DA70D6&point=9370DB&area=true&hide_border=true" />
+
 </div>
 
 <div align="center">
@@ -110,7 +111,10 @@ class Developer {
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"><br>
     <i>"Codando o futuro, um commit de cada vez" ✨</i>
   </p>
-  <img src="https://komarev.com/ghpvc/?username=StephanyeCunto&color=FF69B4&style=flat-square&label=Visitantes"/>
+<img src="https://komarev.com/ghpvc/?username=StephanyeCunto&color=FF69B4&style=flat-square&label=Visitantes"/>
+<a href="https://wakatime.com/@5a343522-23db-45ae-b20b-54655c392390">
+  <img src="https://wakatime.com/badge/user/5a343522-23db-45ae-b20b-54655c392390.svg?color=FF69B4" alt="Wakatime stats" />
+</a>
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:DA70D6,100:9370DB&height=120&section=footer)
