@@ -104,7 +104,7 @@ class Developer {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=StephanyeCunto&bg_color=0d1117&color=FF69B4&line=DA70D6&point=9370DB&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
-  <h2 align="center">🗺️ Meu Roadmap de Aprendizado e Desenvolvimento</h2>
+  <h2 align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXk4dDR4dmR5M2luc3FpMGRoamEydXprdDNqOGx2MTVkZnkyeXFqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k2tCqJgsTHFJRTkU5o/giphy.gif" alt="Map"  width="30"> Meu Roadmap de Aprendizado e Desenvolvimento</h2>
 
   <table>
     <thead>
