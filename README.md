@@ -103,34 +103,69 @@ class Developer {
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=StephanyeCunto&bg_color=0d1117&color=FF69B4&line=DA70D6&point=9370DB&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
-### 🗺️ Meu Roadmap de Aprendizado e Desenvolvimento
 
-| Status | Meta | Descrição |
-|:------:|:----:|:---------:|
-| ✅ | **Java e JavaFX** | Domínio completo de desenvolvimento desktop com JavaFX. |
-| ✅ | **Desenvolvimento Full Stack** | Construção de aplicações completas com front-end e back-end. |
-| 🚧 | **UI/UX Design** | Aprofundar conhecimentos em design de interfaces e experiência do usuário. |
-| 🚧 | **Arquitetura de Software** | Estudar padrões de projeto e arquiteturas escaláveis. |
-| 🔜 | **DevOps** | Aprender Docker, Kubernetes e CI/CD para automação de deploys. |
-| 🔜 | **Open Source** | Contribuir ativamente para projetos open source. |
+  <h2 align=>🗺️ Meu Roadmap de Aprendizado e Desenvolvimento</h2>
 
----
+  <table>
+    <thead>
+      <tr>
+        <th>Status</th>
+        <th>Meta</th>
+        <th>Descrição</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>✅</td>
+        <td><strong>Java e JavaFX</strong></td>
+        <td>Domínio completo de desenvolvimento desktop com JavaFX.</td>
+      </tr>
+      <tr>
+        <td>✅</td>
+        <td><strong>Desenvolvimento Full Stack</strong></td>
+        <td>Construção de aplicações completas com front-end e back-end.</td>
+      </tr>
+      <tr>
+        <td>🚧</td>
+        <td><strong>UI/UX Design</strong></td>
+        <td>Aprofundar conhecimentos em design de interfaces e experiência do usuário.</td>
+      </tr>
+      <tr>
+        <td>🚧</td>
+        <td><strong>Arquitetura de Software</strong></td>
+        <td>Estudar padrões de projeto e arquiteturas escaláveis.</td>
+      </tr>
+      <tr>
+        <td>🔜</td>
+        <td><strong>DevOps</strong></td>
+        <td>Aprender Docker, Kubernetes e CI/CD para automação de deploys.</td>
+      </tr>
+      <tr>
+        <td>🔜</td>
+        <td><strong>Open Source</strong></td>
+        <td>Contribuir ativamente para projetos open source.</td>
+      </tr>
+    </tbody>
+  </table>
 
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30" alt="Goals Icon">
-    Objetivos Profissionais
-  </h2>
-</div>
+  <hr>
 
-### 🎯 Onde Quero Chegar
+  <div align="center">
+    <h2>
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30" alt="Goals Icon">
+      Objetivos Profissionais
+    </h2>
+  </div>
 
-- **Desenvolver Soluções Inovadoras**: Criar aplicações que resolvam problemas reais e impactem positivamente a vida das pessoas.
-- **Aprofundar Conhecimentos em UI/UX**: Tornar-me referência em design de interfaces intuitivas e agradáveis.
-- **Contribuir para a Comunidade Tech**: Compartilhar conhecimento através de artigos, tutoriais e projetos open source.
-- **Trabalhar em Projetos Desafiadores**: Participar de equipes que desenvolvam soluções complexas e escaláveis.
-- **Expandir Habilidades em DevOps**: Dominar ferramentas de automação e infraestrutura como código.
----
+  <h3>🎯 Onde Quero Chegar</h3>
+
+  <ul>
+    <li><strong>Desenvolver Soluções Inovadoras</strong>: Criar aplicações que resolvam problemas reais e impactem positivamente a vida das pessoas.</li>
+    <li><strong>Aprofundar Conhecimentos em UI/UX</strong>: Tornar-me referência em design de interfaces intuitivas e agradáveis.</li>
+    <li><strong>Contribuir para a Comunidade Tech</strong>: Compartilhar conhecimento através de artigos, tutoriais e projetos open source.</li>
+    <li><strong>Trabalhar em Projetos Desafiadores</strong>: Participar de equipes que desenvolvam soluções complexas e escaláveis.</li>
+    <li><strong>Expandir Habilidades em DevOps</strong>: Dominar ferramentas de automação e infraestrutura como código.</li>
+  </ul>
   
 <div align="center">
   <br>
@@ -146,3 +181,5 @@ class Developer {
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:DA70D6,100:9370DB&height=120&section=footer)
+
+
