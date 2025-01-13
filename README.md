@@ -103,7 +103,35 @@ class Developer {
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=StephanyeCunto&bg_color=0d1117&color=FF69B4&line=DA70D6&point=9370DB&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
+### 🗺️ Meu Roadmap de Aprendizado e Desenvolvimento
 
+| Status | Meta | Descrição |
+|:------:|:----:|:---------:|
+| ✅ | **Java e JavaFX** | Domínio completo de desenvolvimento desktop com JavaFX. |
+| ✅ | **Desenvolvimento Full Stack** | Construção de aplicações completas com front-end e back-end. |
+| 🚧 | **UI/UX Design** | Aprofundar conhecimentos em design de interfaces e experiência do usuário. |
+| 🚧 | **Arquitetura de Software** | Estudar padrões de projeto e arquiteturas escaláveis. |
+| 🔜 | **DevOps** | Aprender Docker, Kubernetes e CI/CD para automação de deploys. |
+| 🔜 | **Open Source** | Contribuir ativamente para projetos open source. |
+
+---
+
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30" alt="Goals Icon">
+    Objetivos Profissionais
+  </h2>
+</div>
+
+### 🎯 Onde Quero Chegar
+
+- **Desenvolver Soluções Inovadoras**: Criar aplicações que resolvam problemas reais e impactem positivamente a vida das pessoas.
+- **Aprofundar Conhecimentos em UI/UX**: Tornar-me referência em design de interfaces intuitivas e agradáveis.
+- **Contribuir para a Comunidade Tech**: Compartilhar conhecimento através de artigos, tutoriais e projetos open source.
+- **Trabalhar em Projetos Desafiadores**: Participar de equipes que desenvolvam soluções complexas e escaláveis.
+- **Expandir Habilidades em DevOps**: Dominar ferramentas de automação e infraestrutura como código.
+---
+  
 <div align="center">
   <br>
   <p>
