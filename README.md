@@ -104,7 +104,7 @@ class Developer {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=StephanyeCunto&bg_color=0d1117&color=FF69B4&line=DA70D6&point=9370DB&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
-  <h2 align=>🗺️ Meu Roadmap de Aprendizado e Desenvolvimento</h2>
+  <h2 align="center">🗺️ Meu Roadmap de Aprendizado e Desenvolvimento</h2>
 
   <table>
     <thead>
