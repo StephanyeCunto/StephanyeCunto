@@ -148,26 +148,25 @@ class Developer {
     </tbody>
   </table>
 
-  <hr>
 
-  <div align="center">
-    <h2>
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30" alt="Goals Icon">
-      Objetivos Profissionais
-    </h2>
-  </div>
-
-  <h3>🎯 Onde Quero Chegar</h3>
-
-  <ul>
-    <li><strong>Desenvolver Soluções Inovadoras</strong>: Criar aplicações que resolvam problemas reais e impactem positivamente a vida das pessoas.</li>
-    <li><strong>Aprofundar Conhecimentos em UI/UX</strong>: Tornar-me referência em design de interfaces intuitivas e agradáveis.</li>
-    <li><strong>Contribuir para a Comunidade Tech</strong>: Compartilhar conhecimento através de artigos, tutoriais e projetos open source.</li>
-    <li><strong>Trabalhar em Projetos Desafiadores</strong>: Participar de equipes que desenvolvam soluções complexas e escaláveis.</li>
-    <li><strong>Expandir Habilidades em DevOps</strong>: Dominar ferramentas de automação e infraestrutura como código.</li>
-  </ul>
-  
 <div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30" alt="Goals Icon">
+     Onde Quero Chegar
+  </h2>
+</div>
+
+<h3>🎯 Meus Objetivos Profissionais</h3>
+<ul>
+  <li>✨ <strong>Desenvolver Soluções Inovadoras</strong>: Criar aplicações que resolvam problemas reais e impactem positivamente a vida das pessoas.</li>
+  <li>🎨 <strong>Aprofundar Conhecimentos em UI/UX</strong>: Tornar-me referência em design de interfaces intuitivas e agradáveis.</li>
+  <li>🌍 <strong>Contribuir para a Comunidade Tech</strong>: Compartilhar conhecimento através de artigos, tutoriais e projetos open source.</li>
+  <li>🚀 <strong>Trabalhar em Projetos Desafiadores</strong>: Participar de equipes que desenvolvam soluções complexas e escaláveis.</li>
+  <li>🛠️ <strong>Expandir Habilidades em DevOps</strong>: Dominar ferramentas de automação e infraestrutura como código.</li>
+</ul>
+
+<div align="center">
+  <h2></h2>
   <br>
   <p>
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="Coding Girl"><br>
