@@ -79,7 +79,7 @@ class Developer {
   <a href="https://github.com/StephanyeCunto/CapyCourses" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanyeCunto&repo=CapyCourses&theme=material-palenight&hide_border=true" alt="CapyCourses Repository Card"/>
   </a>
-  <a href="https://github.com/StephanyeCunto/CapyCourses" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/StephanyeCunto/PaintBrush" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanyeCunto&repo=PaintBrush&theme=material-palenight&hide_border=true" alt="PaintBrush Repository Card"/>
   </a>
 
