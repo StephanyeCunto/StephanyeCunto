@@ -1,4 +1,5 @@
-<div align="center>
+<div align="center">
+ 
  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:DA70D6,100:9370DB&height=200&section=header&text=Stephanye%20Cunto&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&descAlignY=55)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&lines=Transformando+ideias+em+c%C3%B3digo+%E2%9C%A8;Criando+experi%C3%AAncias+%C3%BAnicas+%F0%9F%92%96;Apaixonada+por+tecnologia+%F0%9F%92%BB)](https://git.io/typing-svg)
