@@ -165,23 +165,31 @@ const me: Developer = {
 
 ```mermaid
 mindmap
-  root((Desenvolvimento))
-    Tecnologias
-      Frontend Avançado
-      Backend Escalável
-      Cloud Native
-    Práticas
-      Clean Code
-      Design Patterns
-      TDD
-    Soft Skills
-      Liderança
-      Comunicação
-      Mentoria
-    Projetos
-      Open Source
-      Side Projects
-      Inovação
+    root((Desenvolvimento<br>Full Stack))
+        %% Frontend Branch
+        Frontend
+            React Avançado
+                ((Performance 🚀))
+                ((Design Patterns 🏗️))
+            UI/UX
+                ((Design System 🎨))
+                ((Acessibilidade ♿))
+        %% Backend Branch
+        Backend
+            ((Arquitetura Limpa 🏛️))
+            ((Microsserviços 🔄))
+            ((Segurança 🔒))
+        %% DevOps Branch
+        DevOps
+            ((Docker 🐳))
+            ((CI/CD 🔄))
+            ((Cloud ☁️))
+        %% Soft Skills Branch
+        Soft Skills
+            ((Liderança<br>Técnica 👥))
+            ((Mentoria 🎯))
+            ((Gestão de<br>Projetos 📊))
+
 ```
 
 <div align="center">
