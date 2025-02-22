@@ -65,7 +65,7 @@ const me: Developer = {
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,java,python,c,php" alt="Back-end Skills Icons"/>
   
   <h3>🌸 Ferramentas & Mais</h3>
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma" alt="Tools Skills Icons"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools Skills Icons"/>
 </div>
 
 <div align="center">
