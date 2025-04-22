@@ -86,17 +86,17 @@ Ferramenta de pintura digital que permite a criação e manipulação de formas 
 
 ## 💭 Objetivos Profissionais
 
-- 🔍 **Arquitetura Frontend**: Implementação de design systems escaláveis e acessíveis
-- 🏛️ **Clean Architecture**: Desenvolvimento de software sustentável com baixo acoplamento 
-- 🌐 **Integração Full Stack**: Criação de experiências coesas entre frontend e backend
-- 📈 **Otimização de Performance**: Aplicações web de alta performance com métricas Core Web Vitals
+-  **Arquitetura Frontend**: Implementação de design systems escaláveis e acessíveis
+-  **Clean Architecture**: Desenvolvimento de software sustentável com baixo acoplamento 
+-  **Integração Full Stack**: Criação de experiências coesas entre frontend e backend
+-  **Otimização de Performance**: Aplicações web de alta performance com métricas Core Web Vitals
 
-## 💭 O que me move
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXk4dDR4dmR5M2luc3FpMGRoamEydXprdDNqOGx2MTVkZnkyeXFqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k2tCqJgsTHFJRTkU5o/giphy.gif" alt="Map"  width="30">  O que me move
 
-- 🔍 **Design e Arquitetura**: Acredito que software bem desenhado é mais fácil de manter e evoluir
-- 🌱 **Aprendizado Contínuo**: Busco constantemente novas técnicas e abordagens para problemas conhecidos
-- 🤝 **Colaboração**: Os melhores produtos nascem de equipes com diversidade de pensamento e experiências
-- ✨ **Inovação Pragmática**: Não basta ser novo, precisa resolver problemas reais de forma efetiva
+-  **Design e Arquitetura**: Acredito que software bem desenhado é mais fácil de manter e evoluir
+-  **Aprendizado Contínuo**: Busco constantemente novas técnicas e abordagens para problemas conhecidos
+-  **Colaboração**: Os melhores produtos nascem de equipes com diversidade de pensamento e experiências
+-  **Inovação Pragmática**: Não basta ser novo, precisa resolver problemas reais de forma efetiva
 
 
 ## 📈 Crescimento & Aprendizado
@@ -152,14 +152,11 @@ mindmap
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyeCunto&layout=compact&hide_border=true&title_color=FF69B4&text_color=fff&bg_color=0d1117" alt="Most Used Languages"/>
 </div>
 
-<div align="center">
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=StephanyeCunto&bg_color=0d1117&color=FF69B4&line=DA70D6&point=9370DB&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
 
 
 <div align="center">
-  <h2></h2>
   <br>
   <p>
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="Coding Girl"><br>
