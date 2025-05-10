@@ -2,167 +2,132 @@
  
  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:DA70D6,100:9370DB&height=200&section=header&text=Stephanye%20Cunto&fontSize=50&fontColor=000000&animation=twinkling&fontAlignY=35&descAlignY=55)
 </div>
-<div>
-  <h2>
-    <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="30" alt="About Me Icon">
-    Sobre mim
-  </h2>
-</div>
 
-Olá! Sou uma desenvolvedora Full Stack apaixonada por criar soluções que combinam funcionalidade e experiência do usuário. Estou atualmente cursando Ciência da Computação no IFSEMG, busco constantemente o equilíbrio entre código limpo e design intuitivo.
+## 👋 Olá, mundo tech!
 
-Minha jornada na tecnologia é movida pela curiosidade e pelo desafio de transformar problemas complexos em soluções elegantes. Acredito que os melhores softwares nascem da combinação entre conhecimento técnico sólido e sensibilidade para entender as necessidades do usuário final.
+Oi! Sou a Stephanye, estudante de Ciência da Computação no IFSEMG e desenvolvedora Full Stack que acredita que todo problema de programação é um quebra-cabeça esperando para ser montado. 
 
-### O que eu busco:
-- Oportunidades para aplicar e expandir meus conhecimentos em desenvolvimento web
-- Equipes colaborativas onde possa aprender com desenvolvedores mais experientes
-- Projetos que desafiem minha capacidade de resolver problemas
+Minha essência é encontrar o equilíbrio entre código limpo e interfaces que façam sentido para pessoas reais. Afinal, de que adianta a melhor arquitetura se ninguém consegue usar o produto final, não é mesmo?
 
-### Minha abordagem:
-```typescript
-function minhaFilosofia() {
-  return {
-    código: "Escrever código limpo e bem documentado",
-    aprendizado: "Buscar conhecimento continuamente",
-    colaboração: "Trabalhar efetivamente em equipe",
-    problema: "Entender antes de resolver"
-  };
-}
-```
+### Quem sou eu por trás do código:
+- Viciada em café ☕ (não consigo programar sem pelo menos 2 xícaras)
+- Apaixonada por cores e gradientes (como você pode ver pelo meu perfil roxo-rosa 💕)
+- Aluna dedicada que passa horas estudando tutoriais de novas tecnologias
+- Perfeccionista assumida - prefiro entregar mais tarde do que entregar algo que não me orgulhe
 
-<div>
-  <h2>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Tech Stack Icon">
-    Tech Stack
-  </h2>
-</div>
+> "O segredo não é corrigir bugs, é criar features tão boas que ninguém perceba os bugs" - Eu mesma, após virar a noite debugando
 
-<div >
-  <h3> Front-end</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Front-end Skills Icons"/>
-  
-  <h3> Back-end</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,java,python,c,php" alt="Back-end Skills Icons"/>
-  
-  <h3> Ferramentas & Mais</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools Skills Icons"/>
-</div>
+## 🛠️ Minha caixa de ferramentas
 
-<div>
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" alt="Featured Project Icon">
-    Projeto em Destaque
-  </h2>
-</div>
+Sou aquela pessoa que adora mexer em todas as partes do projeto (sim, sou curiosa demais):
 
-### [CapyCourses](https://github.com/StephanyeCunto/CapyCourses)
-Plataforma de cursos online com foco em acessibilidade e experiência de usuário.
- 
- **Tecnologias:** Java, JavaFX, SQLite, Hibernate
+### 💻 Front-end (onde me sinto em casa)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Front-end Skills"/>
 
-**Minha contribuição (UI/UX | Frontend):**
-- Projetei interfaces de usuário intuitivas e acessíveis utilizando JavaFX
-- Desenvolvi componentes de interface reutilizáveis com FXML e CSS
-- Implementei animações e transições para melhorar a experiência do usuário
-- Colaborei na criação de wireframes e protótipos para validação com usuários
-- Otimizei o carregamento de componentes visuais para melhorar o desempenho
+### ⚙️ Back-end (onde a mágica acontece)
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,java,python,c,php" alt="Back-end Skills"/>
 
-**Desafio superado:** Criar uma experiência de usuário consistente e acessível em uma aplicação desktop Java.
+### 🔧 Ferramentas do dia a dia
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools Skills"/>
 
-### [PaintBrush](https://github.com/StephanyeCunto/PaintBrush)  
-Ferramenta de pintura digital que permite a criação e manipulação de formas geométricas em 2D e 3D.
+## 🌟 Meus projetos 
+
+### 🦊 CapyCourses
+*Porque até as capivaras merecem educação de qualidade!*
+
+Um projeto que nasceu da minha própria frustração com plataformas de cursos online pouco intuitivas. Decidi criar algo que até minha avó conseguiria usar (e olha que ela mal sabe ligar o celular!).
+
+**Tecnologias:** Java, JavaFX, SQLite, Hibernate
+
+**O que eu fiz:**
+- Desenhei interfaces pensando em quem tem zero paciência para clicar em 10 botões
+- Transformei conceitos complexos de UX em componentes simples e intuitivos
+- Lutei contra o JavaFX para criar animações que não travassem o app inteiro
+- Refatorei várias vezes até o código ficar tão limpo quanto a interface
+
+**Desafio que quase me fez desistir:** Fazer o JavaFX parecer bonito em 2025! Quase impossível, mas consegui!
+
+### 🎨 PaintBrush
+*Meu xodó e pesadelo ao mesmo tempo*
+
+Desenvolvi este projeto como um desafio pessoal para testar meus conhecimentos em programação gráfica e interfaces interativas.
 
 **Tecnologias:** Java, JavaFX
 
-**Responsável pelo projeto completo (UI/UX | Frontend | Backend):**  
-- Desenvolvi integralmente o projeto, desde a concepção até a implementação final  
-- Projetei e implementei interfaces intuitivas e acessíveis com JavaFX, FXML e CSS  
-- Criei componentes visuais reutilizáveis e adicionei animações para uma experiência de usuário mais fluida  
-- Implementei a lógica de manipulação gráfica utilizando Java puro
+**O que construí do zero:**  
+- Arquitetei todo o sistema de renderização e manipulação de objetos
+- Implementei algoritmos próprios para controle de formas 2D e 3D
+- Criei uma interface minimalista mas poderosa, inspirada em ferramentas profissionais
+- Otimizei cada função para garantir resposta imediata aos comandos do usuário
 
-**Desafio superado:** Dominar a manipulação gráfica em tempo real com JavaFX, superando dificuldades com eventos e coordenadas para criar uma experiência fluida e precisa.
+**Aprendizado mais valioso:** A importância do equilíbrio entre performance e usabilidade - sacrificar um pelo outro nunca é a resposta certa.
 
-</div>
+## 💭 O que me move 
 
-## 💭 Objetivos Profissionais
+As áreas que mais despertam minha paixão:
 
--  **Arquitetura Frontend**: Implementação de design systems escaláveis e acessíveis
--  **Clean Architecture**: Desenvolvimento de software sustentável com baixo acoplamento 
--  **Integração Full Stack**: Criação de experiências coesas entre frontend e backend
--  **Otimização de Performance**: Aplicações web de alta performance com métricas Core Web Vitals
+- **Arquitetura Frontend**: Adoro criar sistemas de design que tornam o desenvolvimento consistente e escalável
+- **Clean Architecture**: Fascinada por estruturas de código sustentáveis que resistem ao teste do tempo
+- **Código organizado**: Tenho prazer estético em ver um projeto bem estruturado e documentado
+- **Acessibilidade**: Comprometida em criar tecnologia que funcione para todos, sem exceções
+- **Otimização de Performance**: Obcecada com microsegundos e bytes, porque cada milissegundo de carregamento importa
 
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXk4dDR4dmR5M2luc3FpMGRoamEydXprdDNqOGx2MTVkZnkyeXFqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k2tCqJgsTHFJRTkU5o/giphy.gif" alt="Map"  width="30">  O que me move
+## 🔍 O que me define como dev
 
--  **Design e Arquitetura**: Acredito que software bem desenhado é mais fácil de manter e evoluir
--  **Aprendizado Contínuo**: Busco constantemente novas técnicas e abordagens para problemas conhecidos
--  **Colaboração**: Os melhores produtos nascem de equipes com diversidade de pensamento e experiências
--  **Inovação Pragmática**: Não basta ser novo, precisa resolver problemas reais de forma efetiva
+- **Código limpo:** Tenho uma relação de amor quase religiosa com nomes de variáveis descritivos e funções pequenas
+- **Curiosidade infinita:** Sou aquela que fica até 4h da manhã aprendendo uma nova tecnologia só porque achei interessante
+- **Comunidade dev:** Acredito que juntos somos mais fortes (e debugamos mais rápido!)
+- **Desafios impossíveis:** Me diz que algo não pode ser feito, e vou passar a semana tentando provar o contrário
 
 
-## 📈 Crescimento & Aprendizado
+ ## 📚 Minha jornada (spoiler: nunca acaba!)
 
-| Fase | Competências | Status | Próximos Passos |
+| Fase | O que conquistei | Status | Próxima obsessão |
 |------|--------------|--------|----------------|
-| **Fundamentos** | HTML/CSS/JS, Acessibilidade | ✅ | Aprofundar CSS Grid e Flexbox |
-| **Desenvolvimento Full Stack** | React, Node.js, APIs RESTful | ✅ | Estudar GraphQL e React Query |
-| **Arquitetura & Qualidade** | Clean Code, Design Patterns, TDD | 🚧 | Implementar SOLID em projetos pessoais |
-| **DevOps & Infraestrutura** | Docker, CI/CD | 🔜 | Configurar pipeline CI/CD com GitHub Actions |
+| **Fundação** | HTML/CSS/JS e acessibilidade básica | ✅ | CSS Grid me deixa confusa às vezes |
+| **Mergulho Full Stack** | React, Node.js, APIs RESTful | ✅ | Entender GraphQL (socorro!) |
+| **Qualidade de código** | Clean Code e Design Patterns | 🚧 | Aplicar SOLID sem ficar overthinking |
+| **DevOps** | Git avançado e Docker básico | 🔜 | Automatizar tudo com CI/CD |
 
-<div>
-  <h2>
-    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30" alt="Goals Icon">
-Meu caminho de desenvolvimento  </h2>
-</div>
+## 🧠 Como organizo minha evolução técnica
 
 ```mermaid
 mindmap
-    root((Desenvolvimento<br>Full Stack))
-        %% Frontend Branch
+    root((Minha Jornada<br>Tech))
         Frontend
-            ((Design Systems<br>Escaláveis ))
-            ((Performance <br>Otimização ))
-            ((Acessibilidade<br>WCAG 2.1 ))
-        %% Backend Branch
+            ((Design Systems<br>que não quebrem ))
+            ((Sites rápidos<br>como Flash ))
+            ((Acessibilidade<br>para vovó ))
         Backend
-            ((Arquitetura<br>Hexagonal ))
-            ((Microsserviços ))
-            ((Segurança<br>OWASP Top 10 ))
-        %% DevOps Branch
+            ((Arquitetura<br>que não vire spaghetti ))
+            ((Código limpo<br>e organizado))
+            ((Segurança<br>como prioridade))
         DevOps
-            ((CI/CD<br>Automatizado ))
-            ((Infraestrutura<br>como Código ))
-            ((Observabilidade ))
-        %% Soft Skills Branch
-        Soft Skills
-            ((Liderança<br>Técnica ))
-            ((Cultura de<br>Qualidade ))
-            ((Gestão de<br>Projetos Ágeis ))          
-
+            ((CI/CD<br>sem estresse ))
+            ((Kubernetes<br>sem medo ))
+            ((Logs que<br>realmente ajudem ))
+        Habilidades
+            ((Explicar<br>tech p/ não-tech ))
+            ((Estimar prazos<br>realistas ))
+            ((Gerenciar café<br>e código ))          
 ```
 
-<div>
-  <h2>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="GitHub Stats Icon">
-    GitHub Stats
-  </h2>
-</div>
+## 📊 Minhas estatísticas (pra quem gosta de números)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=StephanyeCunto&show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=DA70D6&text_color=fff&bg_color=0d1117" alt="GitHub Stats"/> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyeCunto&layout=compact&hide_border=true&title_color=FF69B4&text_color=fff&bg_color=0d1117" alt="Most Used Languages"/>
 </div>
 
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StephanyeCunto&bg_color=0d1117&color=FF69B4&line=DA70D6&point=9370DB&area=true&hide_border=true" alt="Contribution Graph"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=StephanyeCunto&bg_color=0d1117&color=FF69B4&line=DA70D6&point=9370DB&area=true&hide_border=true" alt="Contribution Graph"/>
 
 <div align="center">
   <br>
   <p>
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="Coding Girl"><br>
-    <i>"Codando o futuro, um commit de cada vez" ✨</i>
+    <i>"Se está funcionando, não mexa... mas se der pra otimizar, eu vou mexer!"</i>
   </p>
-    <div>
+  <div>
     <a href="https://www.linkedin.com/in/stephanye-cunto-802b8922b/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/-LinkedIn-%23FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
@@ -181,4 +146,3 @@ mindmap
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:DA70D6,100:9370DB&height=120&section=footer)
-</div>
