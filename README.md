@@ -30,17 +30,17 @@ Minha essência é encontrar o equilíbrio entre código limpo e interfaces que 
 
 > *"O segredo não é corrigir bugs, é criar features tão boas que ninguém perceba os bugs"* — após uma madrugada de debugging
 
+  
 ### 💫 Quem sou eu por trás do código:
-- ☕ Viciada em café ☕ (não consigo programar sem pelo menos 2 xícaras)
-- 🎨 Apaixonada por cores e gradientes (como você pode ver pelo meu perfil roxo-rosa)  
-- 📚 Aluna dedicada que passa horas estudando tutoriais de novas tecnologias
-- ✨ Perfeccionista assumida - prefiro entregar mais tarde do que entregar algo que não me orgulhe
-
+- ☕ Viciada em café ☕ - Não consigo programar sem pelo menos 2 xícaras
+- 🎨 Amante por cores e gradientes - O design é tão importante quanto a funcionalidade
+- 📚 Aluna dedicada - Aquela passa horas estudando tutoriais de novas tecnologias
+- ✨ Perfeccionista assumida - Prefiro entregar mais tarde do que entregar algo que não me orgulhe
+  
 <br>
 
 ## 🛠️ Tecnologias & Ferramentas
 Sou aquela pessoa que adora mexer em todas as partes do projeto (sim, sou curiosa demais):
-
 
 <div>
 
@@ -54,17 +54,19 @@ Sou aquela pessoa que adora mexer em todas as partes do projeto (sim, sou curios
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools Skills"/>
 </div>
 
+<br>
 
 ## 🌟 Projetos Destacados
 
 <div align="center">
-
 <table>
   <tr>
      <td width="50%" align="center">
-      <h3>🌌 Sistema Solar 3D</h3>
+      <h3><a href="https://github.com/StephanyeCunto/ComputacaoGrafica" target="_blank">🌌 Sistema Solar 3D</a></h3>
       <p><em>Da órbita de Mercúrio até os anéis de Saturno</em></p>
-      <img src="https://github.com/StephanyeCunto/ComputacaoGrafica/blob/main/img/Sistema_Solar_3D.png?raw=true" width="100%" alt="Sistema Solar Preview"/>
+      <a href="https://github.com/StephanyeCunto/ComputacaoGrafica" target="_blank">
+        <img src="https://github.com/StephanyeCunto/ComputacaoGrafica/blob/main/img/Sistema_Solar_3D.png?raw=true" width="100%" alt="Sistema Solar Preview"/>
+      </a>
       <p><strong>Tecnologias:</strong> Three.js, WebGL, JavaScript ES6+, Vite</p>
       <p><strong>Características implementadas:</strong></p>
       <ul align="left">
@@ -77,9 +79,11 @@ Sou aquela pessoa que adora mexer em todas as partes do projeto (sim, sou curios
       <p><strong>Maior desafio:</strong> Implementar as leis de Kepler usando equações paramétricas para órbitas elípticas precisas.</p>
     </td>
     <td width="50%" align="center">
-      <h3>🦊 CapyCourses</h3>
+      <h3><a href="https://github.com/StephanyeCunto/CapyCourses" target="_blank">🦊 CapyCourses</a></h3>
       <p><em>Porque até as capivaras merecem educação de qualidade!</em></p>
-      <img src="https://raw.githubusercontent.com/StephanyeCunto/CapyCourses/main/img/telaLoginDark.png" width="100%" alt="CapyCourses Preview"/>
+      <a href="https://github.com/StephanyeCunto/CapyCourses" target="_blank">
+        <img src="https://raw.githubusercontent.com/StephanyeCunto/CapyCourses/main/img/telaLoginDark.png" width="100%" alt="CapyCourses Preview"/>
+      </a>
       <p><strong>Tecnologias:</strong> Java, JavaFX, SQLite, Hibernate</p>
       <p><strong>O que eu fiz:</strong></p>
       <ul align="left">
@@ -93,9 +97,11 @@ Sou aquela pessoa que adora mexer em todas as partes do projeto (sim, sou curios
    </tr>
    <tr>
     <td width="50%" align="center">
-      <h3>🎨 PaintBrush</h3>
+      <h3><a href="https://github.com/StephanyeCunto/PaintBrush" target="_blank">🎨 PaintBrush</a></h3>
       <p><em>Meu xodó e pesadelo ao mesmo tempo</em></p>
-      <img src="https://github.com/StephanyeCunto/PaintBrush/blob/main/img/paintBrush.png?raw=true!" width="100%" alt="PaintBrush Preview"/>
+      <a href="https://github.com/StephanyeCunto/PaintBrush" target="_blank">
+        <img src="https://github.com/StephanyeCunto/PaintBrush/blob/main/img/paintBrush.png?raw=true!" width="100%" alt="PaintBrush Preview"/>
+      </a>
       <p><strong>Tecnologias:</strong> Java, JavaFX</p>
       <p><strong>O que construí do zero:</strong></p>
       <ul align="left">
@@ -110,6 +116,8 @@ Sou aquela pessoa que adora mexer em todas as partes do projeto (sim, sou curios
 </table>
 </div>
 
+<br>
+
 ## 💭 O que me move 
 
 As áreas que mais despertam minha paixão:
@@ -119,6 +127,8 @@ As áreas que mais despertam minha paixão:
 - **Código organizado**: Tenho prazer estético em ver um projeto bem estruturado e documentado
 - **Acessibilidade**: Comprometida em criar tecnologia que funcione para todos, sem exceções
 - **Otimização de Performance**: Obcecada com microsegundos e bytes, porque cada milissegundo de carregamento importa
+
+<br>
 
 ## 🔍 O que me define como dev
 
@@ -149,6 +159,8 @@ As áreas que mais despertam minha paixão:
 </table>
 </div>
 
+<br>
+
  ## 📚 Minha jornada (spoiler: nunca acaba!)
 
  | Fase | O que conquistei | Status | Próxima obsessão |
@@ -157,6 +169,8 @@ As áreas que mais despertam minha paixão:
 | **Mergulho Full Stack** | React, Node.js, APIs RESTful | ✅ | Entender GraphQL (socorro!) |
 | **Qualidade de código** | Clean Code e Design Patterns | 🚧 | Aplicar SOLID sem ficar overthinking |
 | **DevOps** | Git avançado e Docker básico | 🔜 | Automatizar tudo com CI/CD |
+
+<br>
 
 ## 🧠 Como organizo minha evolução técnica
  
@@ -181,7 +195,8 @@ mindmap
             ((Gerenciar café<br>e código))          
 ```
 
-  
+ <br>
+
 ## 📊 Minhas estatísticas (pra quem gosta de números)
 
 <div align="center">
