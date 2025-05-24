@@ -14,7 +14,8 @@
     <img src="https://img.shields.io/badge/-Portfolio-%239370DB?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge">
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=StephanyeCunto&color=FF69B4&style=flat-square&label=Visitantes" alt="Profile Views Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=stephanyealves&style=flat&color=ff69b4&label=Visitantes" alt="Profile Views Counter"/>
+
   <a href="https://wakatime.com/@5a343522-23db-45ae-b20b-54655c392390" target="_blank">
     <img src="https://wakatime.com/badge/user/5a343522-23db-45ae-b20b-54655c392390.svg?color=FF69B4" alt="Wakatime stats"/>
   </a>
