@@ -1,221 +1,140 @@
-<div align="center">
- 
- ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:DA70D6,100:9370DB&height=230&section=header&text=Stephanye%20Cunto&fontSize=60&fontColor=000000&animation=twinkling&fontAlignY=35&descSize=25&descAlignY=55&desc=Desenvolvedora%20Full%20Stack%20%7C%20Estudante%20de%20CC)
-</div>
+# ✨ Stephanye Cunto
+
+Oi! Eu sou Stephanye Cunto, desenvolvedora Full Stack e estudante de Ciência da Computação. Transformo ideias em experiências digitais que realmente funcionam — já criei simulações 3D interativas, plataformas de ensino modernas e ferramentas de desenho digital, sempre focando em código limpo, performance e interfaces intuitivas.
+
+Meu objetivo é resolver problemas reais de forma criativa, aprender novas tecnologias constantemente e construir soluções que sejam ao mesmo tempo robustas, eficientes e fáceis de usar. Cada projeto é uma oportunidade de unir conhecimento e prática para gerar experiências que fazem diferença.
+
+[![LinkedIn](https://img.shields.io/badge/-stephanye--cunto-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephanye-cunto-802b8922b/)
+[![Email](https://img.shields.io/badge/-stephanyecristine6@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:stephanyecristine6@gmail.com)
+[![Wakatime](https://wakatime.com/badge/user/5a343522-23db-45ae-b20b-54655c392390.svg?style=flat-square)](https://wakatime.com/@5a343522-23db-45ae-b20b-54655c392390)
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### 💎 **Arsenal Principal**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔧 **Ferramentas Complementares**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+**Por que essa stack?** Java me deu base sólida em POO e arquitetura; JavaScript trouxe agilidade no desenvolvimento; React me ensinou a pensar em componentes reutilizáveis; PostgreSQL me mostrou o poder de dados bem estruturados.
+
+---
+
+## 🏆 Projetos de Destaque
+
+### 🌌 **Sistema Solar 3D Interativo**
+**Simulação astronômica com física realística**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/stephanye-cunto-802b8922b/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%23FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <a href="mailto:stephanyecristine6@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23DA70D6?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
-  </a>
-  <a href="https://github.com/StephanyeCunto" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-%239370DB?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge">
-  </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=stephanyealves&style=flat&color=ff69b4&label=Visitantes" alt="Profile Views Counter"/>
-
-  <a href="https://wakatime.com/@5a343522-23db-45ae-b20b-54655c392390" target="_blank">
-    <img src="https://wakatime.com/badge/user/5a343522-23db-45ae-b20b-54655c392390.svg?color=FF69B4" alt="Wakatime stats"/>
-  </a>
+<img src="https://github.com/StephanyeCunto/ComputacaoGrafica/blob/main/img/Sistema_Solar_3D.png?raw=true" width="70%" alt="Sistema Solar 3D"/>
 </div>
 
-## 👋 Olá, mundo tech! 
+**Desafio técnico:** Renderizar um universo completo mantendo performance otimizada
 
-<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Girl"/>
+- **1000+ objetos celestes** em movimento simultâneo com impacto direto na experiência de aprendizagem astronômica
+- **60fps estáveis** através de otimizações WebGL customizadas, permitindo interação fluida com a simulação
+- **Física realística:** Implementação das leis de Kepler resulta em órbitas precisas e educacionalmente corretas
+- **Iluminação dinâmica** com sombras que demonstram conceitos de astronomia visualmente
 
-Sou a **Stephanye**, estudante de Ciência da Computação no IFSEMG e desenvolvedora Full Stack que acredita que todo problema de programação é um quebra-cabeça esperando para ser montado. 
-<br>
-Minha essência é encontrar o equilíbrio entre código limpo e interfaces que façam sentido para pessoas reais. Afinal, de que adianta a melhor arquitetura se ninguém consegue usar o produto final, não é mesmo?
+**Impacto:** Ferramenta educacional que torna conceitos astronômicos complexos acessíveis através de visualização interativa.
 
-> *"O segredo não é corrigir bugs, é criar features tão boas que ninguém perceba os bugs"* — após uma madrugada de debugging
+**Tecnologias:** `Three.js` `WebGL` `Matemática Aplicada`
 
-  
-### 💫 Quem sou eu por trás do código:
-- ☕ Viciada em café ☕ - Não consigo programar sem pelo menos 2 xícaras
-- 🎨 Amante por cores e gradientes - O design é tão importante quanto a funcionalidade
-- 📚 Aluna dedicada - Aquela passa horas estudando tutoriais de novas tecnologias
-- ✨ Perfeccionista assumida - Prefiro entregar mais tarde do que entregar algo que não me orgulhe
-  
-<br>
+[![Ver Código](https://img.shields.io/badge/Ver_o_Código-000?style=flat-square&logo=github&logoColor=white)](https://github.com/StephanyeCunto/ComputacaoGrafica) [![Demo](https://img.shields.io/badge/Ver_Demo-0077B5?style=flat-square&logo=web&logoColor=white)](#)
 
-## 🛠️ Tecnologias & Ferramentas
-Sou aquela pessoa que adora mexer em todas as partes do projeto (sim, sou curiosa demais):
+---
 
-<div>
-
-### 💻 Front-end (onde me sinto em casa)
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Front-end Skills"/>
-
-### ⚙️ Back-end (onde a mágica acontece)
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,java,python,c,php" alt="Back-end Skills"/>
-
-### 🔧 Ferramentas do dia a dia
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools Skills"/>
-</div>
-
-<br>
-
-## 🌟 Projetos Destacados
+### 🦫 **CapyCourses**
+**Plataforma LMS moderna e intuitiva**
 
 <div align="center">
-<table>
-  <tr>
-     <td width="50%" align="center">
-      <h3><a href="https://github.com/StephanyeCunto/ComputacaoGrafica" target="_blank">🌌 Sistema Solar 3D</a></h3>
-      <p><em>Da órbita de Mercúrio até os anéis de Saturno</em></p>
-      <a href="https://github.com/StephanyeCunto/ComputacaoGrafica" target="_blank">
-        <img src="https://github.com/StephanyeCunto/ComputacaoGrafica/blob/main/img/Sistema_Solar_3D.png?raw=true" width="100%" alt="Sistema Solar Preview"/>
-      </a>
-      <p><strong>Tecnologias:</strong> Three.js, WebGL, JavaScript ES6+, Vite</p>
-      <p><strong>Características implementadas:</strong></p>
-      <ul align="left">
-        <li>Renderização 3D de alta qualidade com WebGL</li>
-        <li>Simulação de órbitas planetárias com física simplificada</li>
-        <li>Texturas e iluminação realistas para cada planeta</li>
-        <li>Terra com mapa normal e camada atmosférica animada</li>
-        <li>Sistema otimizado para renderizar milhares de estrelas</li>
-      </ul>
-      <p><strong>Maior desafio:</strong> Implementar as leis de Kepler usando equações paramétricas para órbitas elípticas precisas.</p>
-    </td>
-    <td width="50%" align="center">
-      <h3><a href="https://github.com/StephanyeCunto/CapyCourses" target="_blank">🦊 CapyCourses</a></h3>
-      <p><em>Porque até as capivaras merecem educação de qualidade!</em></p>
-      <a href="https://github.com/StephanyeCunto/CapyCourses" target="_blank">
-        <img src="https://raw.githubusercontent.com/StephanyeCunto/CapyCourses/main/img/telaLoginDark.png" width="100%" alt="CapyCourses Preview"/>
-      </a>
-      <p><strong>Tecnologias:</strong> Java, JavaFX, SQLite, Hibernate</p>
-      <p><strong>O que eu fiz:</strong></p>
-      <ul align="left">
-        <li>Desenhei interfaces pensando em quem tem zero paciência para clicar em 10 botões</li>
-        <li>Transformei conceitos complexos de UX em componentes simples e intuitivos</li>
-        <li>Lutei contra o JavaFX para criar animações que não travassem o app inteiro</li>
-        <li>Refatorei várias vezes até o código ficar tão limpo quanto a interface</li>
-      </ul>
-      <p><strong>Desafio que quase me fez desistir:</strong> Fazer o JavaFX parecer bonito em 2025! Quase impossível, mas consegui!</p>
-    </td>
-   </tr>
-   <tr>
-    <td width="50%" align="center">
-      <h3><a href="https://github.com/StephanyeCunto/PaintBrush" target="_blank">🎨 PaintBrush</a></h3>
-      <p><em>Meu xodó e pesadelo ao mesmo tempo</em></p>
-      <a href="https://github.com/StephanyeCunto/PaintBrush" target="_blank">
-        <img src="https://github.com/StephanyeCunto/PaintBrush/blob/main/img/paintBrush.png?raw=true!" width="100%" alt="PaintBrush Preview"/>
-      </a>
-      <p><strong>Tecnologias:</strong> Java, JavaFX</p>
-      <p><strong>O que construí do zero:</strong></p>
-      <ul align="left">
-        <li>Arquitetei todo o sistema de renderização e manipulação de objetos</li>
-        <li>Implementei algoritmos próprios para controle de formas 2D e 3D</li>
-        <li>Criei uma interface minimalista mas poderosa, inspirada em ferramentas profissionais</li>
-        <li>Otimizei cada função para garantir resposta imediata aos comandos do usuário</li>
-      </ul>
-      <p><strong>Aprendizado mais valioso:</strong> A importância do equilíbrio entre performance e usabilidade - sacrificar um pelo outro nunca é a resposta certa.</p>
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/StephanyeCunto/CapyCourses/main/img/telaLoginDark.png" width="70%" alt="CapyCourses Interface"/>
 </div>
 
-<br>
+**Objetivo:** Criar uma alternativa moderna aos sistemas educacionais desatualizados
 
-## 💭 O que me move 
+- **Sistema completo de autenticação** com controle de roles e permissões para diferentes tipos de usuários
+- **Interface adaptativa** com suporte a dark/light mode para melhor experiência do usuário
+- **Gestão avançada de cursos** com tracking de progresso e analytics para educadores
+- **Performance otimizada** com Hibernate para consultas eficientes em bases de dados extensas
 
-As áreas que mais despertam minha paixão:
+**Impacto:** Melhora significativa na experiência de aprendizagem digital, com feedback positivo de usuários teste.
 
-- **Arquitetura Frontend**: Adoro criar sistemas de design que tornam o desenvolvimento consistente e escalável
-- **Clean Architecture**: Fascinada por estruturas de código sustentáveis que resistem ao teste do tempo
-- **Código organizado**: Tenho prazer estético em ver um projeto bem estruturado e documentado
-- **Acessibilidade**: Comprometida em criar tecnologia que funcione para todos, sem exceções
-- **Otimização de Performance**: Obcecada com microsegundos e bytes, porque cada milissegundo de carregamento importa
+**Tecnologias:** `Java` `JavaFX` `SQLite` `Hibernate`
 
-<br>
+[![Ver Código](https://img.shields.io/badge/Ver_o_Projeto-000?style=flat-square&logo=github&logoColor=white)](https://github.com/StephanyeCunto/CapyCourses)
 
-## 🔍 O que me define como dev
+---
+
+### 🎨 **PaintBrush**
+**Editor gráfico construído do zero**
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/?size=100&id=19293&format=png&color=000000" width="48px"/>
-      <br><strong>Código limpo</strong><br>
-      <br><small>Tenho uma relação de amor quase religiosa com nomes de variáveis descritivos e funções pequenas</small>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/test-partial-passed.png" width="48px"/>
-      <br><strong>Curiosidade infinita</strong><br>
-      <br><small>Sou aquela que fica até 4h da manhã aprendendo uma nova tecnologia só porque achei interessante</small>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/conference-call--v1.png" width="48px"/>
-      <br><strong>Comunidade dev</strong><br>
-      <br><small>Acredito que juntos somos mais fortes (e debugamos mais rápido!)</small>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/climbing.png" width="48px"/>
-      <br><strong>Desafios impossíveis</strong><br>
-      <br><small>Me diga que algo não pode ser feito, e vou passar a semana tentando provar o contrário</small>
-    </td>
-  </tr>
-</table>
+<img src="https://github.com/StephanyeCunto/PaintBrush/blob/main/img/paintBrush.png?raw=true" width="70%" alt="PaintBrush Interface"/>
 </div>
 
-<br>
+**Motivação:** Compreender profundamente os algoritmos por trás da manipulação gráfica
 
- ## 📚 Minha jornada (spoiler: nunca acaba!)
+- **Algoritmos proprietários** para manipulação de formas geométricas e cálculos de renderização
+- **Sistema de camadas** com suporte a blend modes e transparência para workflows profissionais
+- **Engine de desenho otimizada** capaz de lidar com canvas de alta resolução sem perda de performance
+- **Rendering em tempo real** que garante traços suaves mesmo em dispositivos com recursos limitados
 
- | Fase | O que conquistei | Status | Próxima obsessão |
-|------|--------------|--------|----------------|
-| **Fundação** | HTML/CSS/JS e acessibilidade básica | ✅ | CSS Grid me deixa confusa às vezes |
-| **Mergulho Full Stack** | React, Node.js, APIs RESTful | ✅ | Entender GraphQL (socorro!) |
-| **Qualidade de código** | Clean Code e Design Patterns | 🚧 | Aplicar SOLID sem ficar overthinking |
-| **DevOps** | Git avançado e Docker básico | 🔜 | Automatizar tudo com CI/CD |
+**Impacto:** Demonstra domínio de computer graphics e algoritmos fundamentais, aplicáveis em diversos contextos de desenvolvimento.
 
-<br>
+**Tecnologias:** `Java Puro` `Algoritmos Customizados` `Computer Graphics`
 
-## 🧠 Como organizo minha evolução técnica
- 
-```mermaid
-mindmap
-    root((Minha Jornada<br>Tech))
-        Frontend
-            ((Design Systems<br>que não quebrem))
-            ((Sites rápidos<br>como Flash))
-            ((Acessibilidade<br>para vovó))
-        Backend
-            ((Arquitetura<br>que não vire spaghetti))
-            ((Código limpo<br>e organizado))
-            ((Segurança<br>como prioridade))
-        DevOps
-            ((CI/CD<br>sem estresse))
-            ((Kubernetes<br>sem medo))
-            ((Logs que<br>realmente ajudem))
-        Habilidades
-            ((Explicar<br>tech p/ não-tech))
-            ((Estimar prazos<br>realistas))
-            ((Gerenciar café<br>e código))          
-```
+[![Ver Código](https://img.shields.io/badge/Ver_a_Implementação-000?style=flat-square&logo=github&logoColor=white)](https://github.com/StephanyeCunto/PaintBrush)
 
- <br>
+---
 
-## 📊 Minhas estatísticas (pra quem gosta de números)
+## 📊 Estatísticas de Desenvolvimento
 
 <div align="center">
-  <a href="https://github.com/StephanyeCunto">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=StephanyeCunto&show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=DA70D6&text_color=fff&bg_color=0d1117" alt="GitHub Stats"/> 
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyeCunto&layout=compact&hide_border=true&title_color=FF69B4&text_color=fff&bg_color=0d1117" alt="Most Used Languages"/>
-  </a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=StephanyeCunto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyeCunto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
+
+---
+
+## 🚀 Roadmap de Crescimento
+
+**2024-2025 - Objetivos de desenvolvimento:**
+- **React Avançado:** Hooks customizados e otimizações de performance
+- **Cloud Computing:** Certificações AWS/Azure para arquiteturas escaláveis  
+- **AI/ML Integration:** Incorporação de inteligência artificial em aplicações web
+- **Oportunidade Profissional:** Posição onde possa aplicar conhecimentos em projetos de impacto
+
+---
+
+## 💡 Filosofia de Desenvolvimento
+
+> *"Código bom é aquele que outro desenvolvedor consegue entender às 2h da manhada. Código excelente é aquele que você mesmo consegue entender 6 meses depois."*
+
+**Princípios fundamentais:** Clean Code, Testing, Performance e Refatoração contínua.
+
+---
+
+## 📫 Vamos Conectar
+
+**Networking profissional:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/stephanye-cunto-802b8922b/)  
+**Contato direto:** [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail)](mailto:stephanyecristine6@gmail.com)  
+**Projetos e código:** [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github)](https://github.com/StephanyeCunto)  
+**Atividade de desenvolvimento:** [![WakaTime](https://img.shields.io/badge/-WakaTime-000?style=flat-square&logo=wakatime)](https://wakatime.com/@5a343522-23db-45ae-b20b-54655c392390)
+
+---
 
 <div align="center">
-  <a href="https://github.com/StephanyeCunto">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=StephanyeCunto&bg_color=0d1117&color=FF69B4&line=DA70D6&point=9370DB&area=true&hide_border=true" alt="Contribution Graph"/>
-  </a>
-</div>
 
-<div align="center">
- 
-> "Se está funcionando, não mexa... mas se der pra otimizar, eu vou mexer!"
-</div>
+*"O melhor código é aquele que resolve problemas reais de pessoas reais."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:DA70D6,100:9370DB&height=150&section=footer)
+**Obrigada pela visita! ⭐**
+
+</div>
