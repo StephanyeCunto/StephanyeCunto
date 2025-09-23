@@ -47,7 +47,7 @@ Meu objetivo é resolver problemas reais de forma criativa, aprender novas tecno
 
 **Tecnologias:** `Three.js` `WebGL` `Matemática Aplicada`
 
-[![Ver Código](https://img.shields.io/badge/Ver_o_Código-000?style=flat-square&logo=github&logoColor=white)](https://github.com/StephanyeCunto/ComputacaoGrafica) [![Demo](https://img.shields.io/badge/Ver_Demo-0077B5?style=flat-square&logo=web&logoColor=white)](#)
+[![Ver Código](https://img.shields.io/badge/Ver_o_Código-000?style=flat-square&logo=github&logoColor=white)](https://github.com/StephanyeCunto/ComputacaoGrafica) 
 
 ---
 
