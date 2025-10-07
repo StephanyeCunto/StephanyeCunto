@@ -122,11 +122,9 @@ Meu objetivo é resolver problemas reais de forma criativa, aprender novas tecno
 ## 📊 Estatísticas de Desenvolvimento
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=StephanyeCunto&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyeCunto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=StephanyeCunto&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27&ring=BB9AF7&fire=F7768E&currStreakLabel=7DCFFF" alt="Streak Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@StephanyeCunto&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&custom_title=Linguagens%20Esta%20Semana" alt="WakaTime Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StephanyeCunto&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyeCunto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
@@ -158,7 +156,7 @@ Meu objetivo é resolver problemas reais de forma criativa, aprender novas tecno
 
 ---
 
-<div align="center">
+<div>
 
 *"O melhor código é aquele que resolve problemas reais de pessoas reais."*
 
