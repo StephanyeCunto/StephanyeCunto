@@ -47,6 +47,7 @@ Meu objetivo é **resolver problemas reais de forma criativa**, aprender novas t
 <img src="https://img.shields.io/badge/Async-Profiler-FF6F61?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Flight_Recorder-4E9F3D?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/VisualVM-007ACC?style=for-the-badge&logo=visualvm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vegeta-FAD201?style=for-the-badge"/>
 
 ### 🗄️ Bancos de Dados
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
