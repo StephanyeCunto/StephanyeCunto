@@ -13,6 +13,8 @@ Meu objetivo é **resolver problemas reais de forma criativa**, aprender novas t
 
 ## 🛠️ Stack Tecnológica
 
+## 🛠️ Stack Tecnológica
+
 <div>
 
 ### 💎 Linguagens
@@ -22,16 +24,21 @@ Meu objetivo é **resolver problemas reais de forma criativa**, aprender novas t
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mathematics-FFAA00?style=for-the-badge"/>
 
-### ⚡ Frameworks & Bibliotecas
+### ⚡ Frameworks, Bibliotecas & Protocolos
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebGL-568ED1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XML-RPC-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Graphics-00C8FF?style=for-the-badge"/>
 
 ### 🧩 Java & JVM
 <img src="https://img.shields.io/badge/JavaFX-0078D7?style=for-the-badge&logo=javafx&logoColor=white"/>
@@ -60,6 +67,8 @@ Meu objetivo é **resolver problemas reais de forma criativa**, aprender novas t
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+</div>
 
 
 </div>
