@@ -13,8 +13,6 @@ Meu objetivo é **resolver problemas reais de forma criativa**, aprender novas t
 
 ## 🛠️ Stack Tecnológica
 
-## 🛠️ Stack Tecnológica
-
 <div>
 
 ### 💎 Linguagens
