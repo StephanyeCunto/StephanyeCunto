@@ -1,13 +1,25 @@
-# ✨ Stephanye Cunto
+<div align="center">
 
-Oi! Eu sou Stephanye Cunto, desenvolvedora Full Stack e estudante de Ciência da Computação. Transformo ideias em experiências digitais que realmente funcionam — já criei simulações 3D interativas, plataformas de ensino modernas, ferramentas de desenho digital e sistemas distribuídos, sempre focando em **código limpo, performance e interfaces intuitivas**.
+# Stephanye Cunto
 
-Meu objetivo é **resolver problemas reais de forma criativa**, aprender novas tecnologias constantemente e construir soluções que sejam robustas, eficientes e fáceis de usar. Cada projeto é uma oportunidade de unir conhecimento e prática para gerar experiências que fazem diferença.
+**Desenvolvedora Full Stack**
 
-<a href="https://www.linkedin.com/in/stephanye-cunto-802b8922b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:stephanyecristine6@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://wakatime.com/@5a343522-23db-45ae-b20b-54655c392390"><img src="https://wakatime.com/badge/user/5a343522-23db-45ae-b20b-54655c392390.svg?style=flat-square"/></a>
+Bacharela em Ciência da Computação · Disponível para novas oportunidades
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephanye-cunto-802b8922b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:stephanyecristine6@gmail.com)
+[![WakaTime](https://wakatime.com/badge/user/5a343522-23db-45ae-b20b-54655c392390.svg?style=flat-square)](https://wakatime.com/@5a343522-23db-45ae-b20b-54655c392390)
+
+</div>
+
+---
+
+## Olá! Eu sou a Stephanye 👋
+Desenvolvedora Full Stack recém-formada em Ciência da Computação, com experiência prática construindo software de ponta a ponta, de APIs distribuídas a interfaces 3D interativas no navegador.
+
+Ao longo da graduação não me limitei ao currículo: fui além e construí projetos reais com tecnologias de mercado, aprendendo a tomar decisões de arquitetura, escrever código limpo e pensar em performance. Gosto igualmente do back-end e do front-end, e me sinto confortável transitando entre os dois.
+
+O que me move é resolver problemas que importam, com código que outras pessoas consigam entender, manter e evoluir.
 
 ---
 
@@ -127,42 +139,11 @@ Meu objetivo é **resolver problemas reais de forma criativa**, aprender novas t
 
 ---
 
-## 📊 Estatísticas de Desenvolvimento
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StephanyeCunto&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyeCunto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-## 🚀 Roadmap de Crescimento
-
-**2024-2025 - Objetivos de desenvolvimento:**
-- Sistemas Distribuídos e microserviços
-- React Avançado e otimizações de performance
-- Cloud Computing (AWS / Azure)
-- Integração de AI/ML em aplicações web
-- Posição profissional com impacto real em projetos
-
----
-
 ## 💡 Filosofia de Desenvolvimento
 
 > *"Código bom é aquele que outro desenvolvedor consegue entender às 2h da madrugada. Código excelente é aquele que você mesmo consegue entender 6 meses depois."*
 
 **Princípios:** Clean Code, Testes, Performance e Refatoração contínua.
-
----
-
-## 📫 Vamos Conectar
-
-<div align="center">
-<a href="https://www.linkedin.com/in/stephanye-cunto-802b8922b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:stephanyecristine6@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/StephanyeCunto"><img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github"/></a>
-<a href="https://wakatime.com/@5a343522-23db-45ae-b20b-54655c392390"><img src="https://img.shields.io/badge/-WakaTime-000?style=flat-square&logo=wakatime"/></a>
-</div>
 
 ---
 
