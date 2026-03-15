@@ -139,6 +139,15 @@ O que me move é resolver problemas que importam, com código que outras pessoas
 
 ---
 
+## 📊 Estatísticas de Desenvolvimento
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StephanyeCunto&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyeCunto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
 ## 💡 Filosofia de Desenvolvimento
 
 > *"Código bom é aquele que outro desenvolvedor consegue entender às 2h da madrugada. Código excelente é aquele que você mesmo consegue entender 6 meses depois."*
